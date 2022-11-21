@@ -1,7 +1,7 @@
 # listaTelefonica
 
 Para utilizar o sistema faça uso de algum editor de código com suporte a linguagem: C. (Exemplo: DEV C++ ou CodeBlocs)
-Execultar o arquivo main.
+Execultar o arquivo main.<p><p/>
 
 Trabalho desenvolvido na faculdade(UECE) durante a cadeira de estrutura de dados 1.
 A proposta é bem simples, criar um catálogo de lista telefônica com o uso das seguintes estruturas: tabela hash e árvore AVL.
